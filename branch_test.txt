@@ -2,3 +2,4 @@ text
 add 変更をインデックスに登録
 commit 状態を記録する
 pull リモートリポジトリの内容を取得する
+Applying: pullの説明を追加
